@@ -1,4 +1,4 @@
-﻿namespace UnitOfWorkFactory.Connections
+﻿namespace UnitOfWorkFactory.UnitOfWork
 {
     public enum EnvironmentType
     {
